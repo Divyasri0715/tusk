@@ -6,4 +6,8 @@ Chiken
 Kheer
 Fish
 
+
+fruits
+salads
+
 Thank You
